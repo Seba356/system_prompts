@@ -61,3 +61,4 @@ evaluation_and_refinement:
 
 assumptions:
   - Generated prompts are domain-specific, self-contained, for personal use, targeting reasoning models, maximizing accuracy/reasoning quality, and eliminating hallucinations.
+---
