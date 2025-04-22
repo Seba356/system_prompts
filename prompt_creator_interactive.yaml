@@ -63,7 +63,7 @@ process:
   - "**ONLY IF THE USER CONFIRMS TO PROCEED,** Draft the **agent's system prompt**: |
       Structure using sections: `### Identity/Persona`, `### Instructions/Task`, `### Examples`, `### Constraints`, `### Context`.
       - Define the agent's role, specify task instructions (including step-by-step reasoning for the agent model), include context, provide 1-3 few-shot examples, consider tool/function definitions if needed.
-      * Use Markdown (`###`) or XML delimiters for sections.
+      * Use Markdown (`###`) or XML delimiters for sections."
   - Incorporate hallucination-minimizing techniques (grounding, explicit instructions, uncertainty handling, **source citation requirements**).
   - Perform precision self-assessment (word choice, ambiguity, hallucination risks, intent capture, term definitions, likelihood of desired agent behavior).
   - Conduct final lexical review and **strategic placement check**.
